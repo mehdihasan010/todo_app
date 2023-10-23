@@ -46,5 +46,3 @@ We welcome contributions from the community! If you find bugs or have suggestion
 Happy coding!
 
 ---
-
-Feel free to customize the description further based on specific functionalities or unique aspects of your app. Good luck with your project!
