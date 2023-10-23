@@ -1,8 +1,5 @@
 # Flutter Hive Todo App
 
-Certainly! Here's a description for your Flutter Hive Todo App on GitHub:
-
----
 
 **Flutter Hive Todo App**
 
